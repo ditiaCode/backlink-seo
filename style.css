@@ -1,0 +1,13 @@
+* {
+            font-size: small;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        .sh {
+            text-shadow: 1px 1px 1px black;
+        }
+
+        .hv:hover {
+            background-color: limegreen;
+            color: white;
+        }
